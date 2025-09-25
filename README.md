@@ -1,2 +1,24 @@
-# Small-FAQ-for-Websites
-A responsive FAQ (Frequently Asked Questions) section built with HTML and CSS. This component includes common examples such as order tracking instructions and return policy details. It’s easy to customize and can be integrated into any website to provide users with quick answers to frequently asked questions.
+# FAQ-Page
+
+A clean and responsive **FAQ (Frequently Asked Questions) page** built entirely with **HTML and CSS**.  
+This project provides a lightweight and reusable template for displaying common questions and answers on websites.
+
+## ✨ Features
+- Responsive layout for desktop and mobile  
+- Simple design and easy to customize   
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/faq-page.git
+cd faq-page
+```
+## Open in browser
+Open the index.html file in your browser to see the FAQ page in action.
+
+## 📸 Preview
+(Optional: Add a screenshot or demo gif of your FAQ page here)
+
+## 📜 License
+This project is licensed under the MIT License.
